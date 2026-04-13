@@ -6,7 +6,7 @@
 
 ご質問・不具合報告は下記メールまでご連絡ください。
 
-📧 inouehide@gmail.com
+inouehide@gmail.com
 
 ## アプリについて
 
